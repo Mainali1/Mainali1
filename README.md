@@ -103,7 +103,7 @@ Currently:
 ## `> contact --all`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=flat-square&logo=vercel&logoColor=black)](https://rijanmainali.vercel.app)
-[![Modulifyr](https://img.shields.io/badge/Modulifyr-181717?style=flat-square&logo=github&logoColor=white)](https://modulifyr.com)
+[![Modulifyr](https://img.shields.io/badge/Modulifyr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/modulifyr-lab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rijan.d.devil@gmail.com)
 
 ---
