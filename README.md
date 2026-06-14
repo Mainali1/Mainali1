@@ -19,7 +19,7 @@
 
 ## `> whoami`
 
-Hey — I'm Rijan. I run **[Modulifyr](https://github.com/modulifyr-lab)**, a modular TypeScript-first software company based in Birtamode, Nepal. By day I'm architecting clean, composable software. By night I'm leading a volunteer team building **Banjhakri** — a story-driven 2D game rooted in Nepali shamanic folklore, targeting a Steam release.
+Hey — I'm Rijan. I run **[Modulifyr](https://modulifyr.com)**, a modular TypeScript-first software company based in Birtamode, Nepal. By day I'm architecting clean, composable software. By night I'm leading a volunteer team building **Banjhakri** — a story-driven 2D game rooted in Nepali shamanic folklore, targeting a Steam release.
 
 I build things that are fast, maintainable, and actually work. I have a bias toward shipping.
 
@@ -102,8 +102,8 @@ Currently:
 
 ## `> contact --all`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=flat-square&logo=vercel&logoColor=black)](https://mainali.dev)
-[![Modulifyr](https://img.shields.io/badge/Modulifyr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/modulifyr-lab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=flat-square&logo=vercel&logoColor=black)](https://rijanmainali.vercel.app)
+[![Modulifyr](https://img.shields.io/badge/Modulifyr-181717?style=flat-square&logo=github&logoColor=white)](https://modulifyr.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rijan.d.devil@gmail.com)
 
 ---
