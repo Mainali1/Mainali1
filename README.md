@@ -1,5 +1,19 @@
 <div align="center">
 
+<!--
+  PHASE 1 — BANNER (pending your photo)
+  Once dark.svg / light.svg exist at the repo root, uncomment this block
+  and delete the ASCII block below it.
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mainali1/Mainali1/main/dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mainali1/Mainali1/main/light.svg">
+    <img alt="Rijan Mainali" src="https://raw.githubusercontent.com/Mainali1/Mainali1/main/light.svg">
+  </picture>
+-->
+
 ```
 ██████╗ ██╗     ██╗ █████╗ ███╗   ██╗
 ██╔══██╗██║     ██║██╔══██╗████╗  ██║
@@ -55,36 +69,67 @@ I build things that are fast, maintainable, and actually work. I have a bias tow
 
 ### 🎮 Banjhakri *(in development)*
 > A top-down 2D story-driven Unity game rooted in Nepali shamanic folklore. Dual-resource system, village-building across four stages, a stealth/detection system with vision cones, five playable characters, and a three-act narrative with franchise seeds. Targeting Steam.
-> 
+>
 > `Unity` `C#` `Game Design` `Nepali Folklore`
 
 ---
 
 ### 🤖 Jenna-VA
 > A commercial-grade offline voice assistant. Built to actually work without phoning home.
-> 
+>
 > `Python` · [→ repo](https://github.com/Mainali1/Jenna-VA)
 
 ---
 
 ### 🧠 Ai-Anna
 > My first personal AI project — lightweight, free-tier-friendly, and offline-capable.
-> 
+>
 > `Python` · [→ repo](https://github.com/Mainali1/Ai-Anna)
 
 ---
 
 ### 💬 Astra
 > A sassy assistant that actually works. No fluff.
-> 
+>
 > `Python` · [→ repo](https://github.com/Mainali1/Astra)
 
 ---
 
 ### 🏨 C Hotel Management
 > Full hotel management software in C. No frameworks. Just pointers and discipline.
-> 
+>
 > `C` · [→ repo](https://github.com/Mainali1/C---Hotel-Management)
+
+---
+
+## `> stats --live`
+
+<!--
+  PHASE 2 — Replace YOUR-INSTANCE with your self-hosted github-readme-stats
+  Vercel URL once deployed (see SETUP-CHECKLIST.md). Do NOT ship this with
+  the public github-readme-stats.vercel.app host — it will rate-limit.
+-->
+
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=Mainali1&hide_border=true&background=0D0D0D&stroke=F59E0B&ring=FBBF24&fire=F59E0B&currStreakLabel=FBBF24&sideLabels=A8A29E&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=78716C&titleColor=F59E0B&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Mainali1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F59E0B&icon_color=FBBF24&text_color=A8A29E&bg_color=0D0D0D&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Mainali1&layout=compact&langs_count=8&hide_border=true&title_color=F59E0B&text_color=A8A29E&bg_color=0D0D0D&card_width=500" alt="top langs" />
+</div>
+
+---
+
+## `> contrib --animate`
+
+<!-- PHASE 3 — appears automatically once the snake workflow's first run goes green and the `output` branch exists -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mainali1/Mainali1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mainali1/Mainali1/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Mainali1/Mainali1/output/github-snake.svg" />
+</picture>
+</div>
 
 ---
 
