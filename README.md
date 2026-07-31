@@ -113,8 +113,8 @@ I build things that are fast, maintainable, and actually work. I have a bias tow
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=Mainali1&hide_border=true&background=0D0D0D&stroke=F59E0B&ring=FBBF24&fire=F59E0B&currStreakLabel=FBBF24&sideLabels=A8A29E&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=78716C&titleColor=F59E0B&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="github-readme-stats-j9ymxlw55-rijans-projects-c6adf547.vercel.app/api?username=Mainali1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F59E0B&icon_color=FBBF24&text_color=A8A29E&bg_color=0D0D0D&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Mainali1&layout=compact&langs_count=8&hide_border=true&title_color=F59E0B&text_color=A8A29E&bg_color=0D0D0D&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-j9ymxlw55-rijans-projects-c6adf547.vercel.app/api?username=Mainali1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=F59E0B&icon_color=FBBF24&text_color=A8A29E&bg_color=0D0D0D&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-j9ymxlw55-rijans-projects-c6adf547.vercel.app/api/top-langs/?username=Mainali1&layout=compact&langs_count=8&hide_border=true&title_color=F59E0B&text_color=A8A29E&bg_color=0D0D0D&card_width=500" alt="top langs" />
 </div>
 
 ---
